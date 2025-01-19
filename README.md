@@ -19,7 +19,7 @@ This is an exapmle for its ERD
 libraries that has been used :
 
 -tkinter : for buliding the GUI
--ttkthemes: To enhance the visual design of the GUI with prebuilt themes.
+ -ttkthemes: To enhance the visual design of the GUI with prebuilt themes.
 - pyodbc :For connecting to the SQL Server database.
 - networkx :For creating the schema graph.
 - matplotlib : For visualizing the ERD
